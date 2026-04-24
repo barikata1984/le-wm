@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+wandb/
+outputs/
+actgen-on-sig/
+environment*.json
+requirements_frozen*.txt
+tea_debug.log
