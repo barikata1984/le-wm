@@ -1,0 +1,11 @@
+_target_: actgen_lewm.swm_adapter.LatCoSolver
+model: ???
+variant: riemannian
+H: 25
+n_iter: 100
+lr: 1e-2
+gamma: 0.01
+alpha: 0.1
+beta: 1.0
+idm_path: null
+device: cuda
